@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/src/java/controller/EmailSender.java</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/src/java/config/ConectaDB.java</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/web/login/cadastro.jsp</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/web/index.jsp</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/src/java/model/Cliente.java</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/src/java/model/Imagem.java</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/src/java/model/Marcador.java</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/src/java/modelDAO/ClientesDAO.java</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/src/java/util/CryptoUtil.java</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/src/java/controller/AlterarSenhaController.java</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/src/java/controller/CadastroController.java</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/src/java/controller/CaptchaServlet.java</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/src/java/controller/ConfiguracoesController.java</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/src/java/controller/EditarDadosController.java</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/src/java/controller/FotoController.java</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/src/java/controller/ImagemController.java</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/src/java/controller/LoginController.java</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/src/java/controller/MarcadorController.java</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/src/java/controller/RecuperarSenhaController.java</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/src/java/controller/UploadFotoController.java</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/src/java/controller/UploadImagemController.java</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/web/login/login.jsp</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/web/site/alterar-senha.jsp</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/web/login/esqueci-senha.jsp</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/web/site/anotacoes.jsp</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/web/site/configuracoes.jsp</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/web/site/duvidas.jsp</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/web/site/editar-dados.jsp</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/web/site/home.jsp</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/web/site/mapa.jsp</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/web/site/perfil.jsp</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/web/site/sucesso.jsp</file>
+            <file>file:/C:/Users/BazukaGamer/Documents/AgenteSaudeGPS/web/site/upload-foto.jsp</file>
+        </group>
+    </open-files>
+</project-private>
